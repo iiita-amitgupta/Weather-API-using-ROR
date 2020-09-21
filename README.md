@@ -3,22 +3,6 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Important points about the project and various commit:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Third commit of this project contains a complete API. Which we can access without using ".json" extension. link for explanation of the code :(https://www.youtube.com/watch?v=WZ--LRRyeTQ)
